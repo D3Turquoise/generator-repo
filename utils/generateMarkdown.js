@@ -32,7 +32,7 @@ function generateMarkdown(answers) {
   ${ansers.testing}
   
   ## Questions
-  - http://github.com/${answers.github_username}
+  - https://github.com/D3Turquoise${answers.github_username}
   - ${answers.email}
   `;
 }
