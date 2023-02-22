@@ -1,7 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(answers) {
   return `
-  # ${answers.title}
+  #Title
+  ${answers.title}
   
   ## Description
   ${answers.description}
@@ -19,16 +20,16 @@ function generateMarkdown(answers) {
   ${answers.installation}
   
   ## Usage
-  Usage
+  ${answers.usage}
   
   ## License
-  This application is covered under this license
+  ${answers.license}
   
   ## Contributing
-  Steps for contributing
+  ${answers.contributing}
   
   ## Tests
-  Steps for testing
+  ${ansers.testing}
   
   ## Questions
   - http://github.com/${answers.github_username}

@@ -22,6 +22,27 @@ const questions = [
     },
     {
         type: "input",
+        name: "usage",
+        message:  "What is the usage?"
+    },
+    {
+        type: "list",
+        name: "license",
+        choices: ["MIT", "GPL", "GNU", "Bsd-2-clause"]
+        message:  "The license that the application is covered under?"
+    },
+    {
+        type: "input",
+        name: "contributing",
+        message:  "Please can you provide an overview for contributors?"
+    },
+    {
+        type: "input",
+        name: "tests",
+        message:  "What are the steps for testing?"
+    },
+    {
+        type: "input",
         name: "github_username",
         message:  "What is your Github username?"
     },

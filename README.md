@@ -1,8 +1,8 @@
 
-  # asdasasdada
+  # Anastasia
   
   ## Description
-  123123fcsfew
+  my name and anegdote
   
   ## Table of Contents
   - [Installation](#installation)
@@ -14,7 +14,7 @@
   
   
   ## Installation
-  dwqdq
+  ddd
   
   ## Usage
   Usage
@@ -29,6 +29,6 @@
   Steps for testing
   
   ## Questions
-  - http://github.com/Turquoise_D3
-  - adasdsa@mail.com
+  - http://github.com/dd
+  - dd
   
