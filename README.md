@@ -29,6 +29,6 @@
   Steps for testing
   
   ## Questions
-  - http://github.com/dd
-  - dd
+  - https://github.com/D3Turquoise 
+  - anastasia.toleva@yahoo.com
   
